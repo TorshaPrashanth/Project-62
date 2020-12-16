@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    padding-top: 100px;
+    background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
+.pics {
+    width: 800px;
+    height: 500px;
+}
+.imgs {
+    width: 300px;
+    height: 300px;
+    margin-right: 10px;
+}
+#frozen2 {
+    width: 800px;
+    height: 450px;
+}
+html {
+    scroll-behavior: smooth;
+}
